@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Email",
+    "SMS",
+    "QR",
+    "Social media",
+    "ORM",
+    "Web / App analytics",
+    "Notifications",
+    "Voice assistant"
+  ],
+  "detailAnalytics": {
+    "categories": [
+      "",
+      "",
+      ""
+    ],
+    "subcategories": [
+      "",
+      "",
+      ""
+    ],
+    "detailOverView": [
+      {
+        "title": "Reach",
+        "percentage": "38.4%",
+        "unique": "22,340",
+        "forwards": "1,908",
+        "comparison": "12%",
+        "status": "up"
+      },
+      {
+        "title": "Engagement",
+        "percentage": "55.0%",
+        "unique": "13,256",
+        "forwards": "98",
+        "comparison": "23%",
+        "status": "up"
+      },
+      {
+        "title": "Conversion",
+        "percentage": "0.1%",
+        "uniqueopens": "21",
+        "forwards": "",
+        "comparison": "19%",
+        "status": "up"
+      }
+    ],
+    "keymetrics": {
+      "totalaudience": "105,000",
+      "delivered": "63,000",
+      "forwarded": "2,678",
+      "totalOpened": "24,248",
+      "totalClicked": "13,354",
+      "conversionRate": "0.16%",
+      "bounced": "14,700",
+      "spammed": "198",
+      "Unsubscribed": "21"
+    },
+    "totalLinkClick": [
+      {
+        "sno": "",
+        "link": "",
+        "totalClicks": "",
+        "uniqueClicks": ""
+      }
+    ],
+    "campaignStatusList": [
+      {
+        "sNo": "",
+        "name": "",
+        "email": "",
+        "opens": "",
+        "clicks": "",
+        "conversions": ""
+      }
+    ]
+  }
+}

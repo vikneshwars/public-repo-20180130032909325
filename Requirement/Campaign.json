@@ -1,0 +1,226 @@
+{
+  "campaignTypes":[
+    "All","Awareness",
+    "Greetings",
+    "New product launch",
+    "Promotion",
+    "sale"
+  ],
+  "deliveryTypes":[
+
+    "Single dimension",
+    "Multi dimension",
+    "Transactional"
+],
+  "campaignsData":[
+    {
+      "created":"Created by: Sophia Goodwin, On: Nov 02, 2017",
+      "name":"Fixed deposit renewal",
+      "campaignType":"Single dimension",
+      "deliveryType":"Promotional",
+      "campaignDate":"700,000",
+      "campaignStatus":"In progress",
+      "audienceCount":"700,000",
+      "channels":[
+        {
+        "channelName":"Email",
+        "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Sophia Goodwin, on: Oct 05, 2017",
+      "name":"Investment plans",
+      "campaignType":"Single dimension",
+      "deliveryType":"Promotion",
+      "campaignDate":"1,745,560",
+      "campaignStatus":"Completed",
+      "audienceCount":"1,745,560",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Sophia Goodwin, on: Oct 11, 2017",
+      "name":"Promotional credit card offers",
+      "campaignType":"Multi dimension",
+      "deliveryType":"Promotion",
+      "campaignDate":"1,745,560",
+      "campaignStatus":"Scheduled",
+      "audienceCount":"1,745,560",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Sophia Goodwin, on: Oct 11, 2017",
+      "name":"Gold bonds",
+      "campaignType":"Single dimension",
+      "deliveryType":"Lead generation",
+      "campaignDate":"1,456,800",
+      "campaignStatus":"In progress",
+      "audienceCount":"1,456,800",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by Sophia Goodwin on Sep 21, 2017",
+      "name":"Building better money habits",
+      "campaignType":"Single dimension",
+      "deliveryType":"Awareness",
+      "campaignDate":"700,000",
+      "campaignStatus":"Draft",
+      "audienceCount":"700,000",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Lisa Adams, On: Sep 11, 2017",
+      "name":"Pre-approved Loan",
+      "campaignType":"Trigger",
+      "deliveryType":"Promotion",
+      "campaignDate":"NA",
+      "campaignStatus":"Scheduled",
+      "audienceCount":"NA",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Alexis Min, On: Sep 21, 2017",
+      "name":"EMI Offer",
+      "campaignType":"Trigger",
+      "deliveryType":"Promotion",
+      "campaignDate":"NA",
+      "campaignStatus":"Draft",
+      "audienceCount":"NA",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Jennifer Hall, On: Aug 19, 2017",
+      "name":"Offer for Tech Geek",
+      "campaignType":"Trigger",
+      "deliveryType":"Promotion",
+      "campaignDate":"NA",
+      "campaignStatus":"Draft",
+      "audienceCount":"NA",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    },
+    {
+      "created":"Created by: Alexis Min, On: Sep 11, 2017",
+      "name":"Offer for Foodie",
+      "campaignType":"Trigger",
+      "deliveryType":"Promotion",
+      "campaignDate":"NA",
+      "campaignStatus":"Draft",
+      "audienceCount":"NA",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"Play"
+        },{
+          "channelName":"QR Code",
+          "status":""
+        }
+
+      ]
+    }
+  ]
+
+
+}

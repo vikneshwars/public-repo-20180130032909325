@@ -1,0 +1,458 @@
+{
+  "categories": [
+    "All segments",
+    "Loans & Fixed deposit awareness",
+    "Young professionals",
+    "Fixed deposit renewal",
+    "Control/Target group"
+  ],
+  "reach": {
+    "categories": [
+      "Overall",
+      "First 24 hr"
+    ],
+    "campaignAnalyticsChartData": [
+      {
+        "campaignAnalyticsChart": [
+          {
+            "name": "Google Ads",
+            "color": "#bc2f20",
+            "marker": {
+              "lineColor": "#bc2f20",
+              "fillColor": "white"
+            },
+            "data": [
+              90,
+              120,
+              110,
+              120,
+              75,
+              100,
+              119,
+              100,
+              126,
+              141,
+              199,
+              112
+            ],
+            "legendIndex": "1"
+          },
+          {
+            "name": "Facebook Ads",
+            "color": "#6a7aa5",
+            "marker": {
+              "linecolor": "#6a7aa5",
+              "fillcolor": "white"
+            },
+            "data": [
+              90,
+              70,
+              150,
+              103,
+              200,
+              96,
+              30,
+              88,
+              150,
+              80,
+              40,
+              100
+            ],
+            "legendIndex": 1
+          },
+          {
+            "name": "Twitter Ads",
+            "color": "#31ccfd",
+            "marker": {
+              "linecolor": "#31ccfd",
+              "fillcolor": "white"
+            },
+            "data": [
+              60,
+              70,
+              90,
+              50,
+              80,
+              30,
+              80,
+              85,
+              100,
+              92,
+              100,
+              102
+            ],
+            "legendIndex": 2
+          }
+        ],
+        "categoriesData": [
+          "27th Oct",
+          "28th Oct",
+          "29th Oct",
+          "3rd Nov",
+          "4th Nov",
+          "5th Nov",
+          "6th Nov",
+          "7th Nov",
+          "8th Nov",
+          "9th Nov",
+          "10th Nov"
+        ]
+      }
+    ]
+  },
+  "engagement": {
+    "description": "total reach with 52% engagement happened during this period",
+    "percentage": "72%",
+    "categories": [
+      "Overall",
+      "First 24 hr"
+    ],
+    "campaignAnalyticsChartData": [
+      {
+        "campaignAnalyticsChart": [
+          {
+            "name": "Google Ads",
+            "color": "#bc2f20",
+            "marker": {
+              "lineColor": "#bc2f20",
+              "fillColor": "white"
+            },
+            "data": [
+              90,
+              120,
+              110,
+              120,
+              75,
+              100,
+              119,
+              100,
+              126,
+              141,
+              199,
+              112
+            ],
+            "legendIndex": "1"
+          },
+          {
+            "name": "Facebook Ads",
+            "color": "#6a7aa5",
+            "marker": {
+              "linecolor": "#6a7aa5",
+              "fillcolor": "white"
+            },
+            "data": [
+              90,
+              70,
+              150,
+              103,
+              200,
+              96,
+              30,
+              88,
+              150,
+              80,
+              40,
+              100
+            ],
+            "legendIndex": 1
+          },
+          {
+            "name": "Twitter Ads",
+            "color": "#31ccfd",
+            "marker": {
+              "linecolor": "#31ccfd",
+              "fillcolor": "white"
+            },
+            "data": [
+              60,
+              70,
+              90,
+              50,
+              80,
+              30,
+              80,
+              85,
+              100,
+              92,
+              100,
+              102
+            ],
+            "legendIndex": 2
+          }
+        ],
+        "categoriesData": [
+          "27th Oct",
+          "28th Oct",
+          "29th Oct",
+          "3rd Nov",
+          "4th Nov",
+          "5th Nov",
+          "6th Nov",
+          "7th Nov",
+          "8th Nov",
+          "9th Nov",
+          "10th Nov"
+        ]
+      }
+    ]
+  },
+  "detailOverView": [
+    {
+      "title": "Reach",
+      "percentage": "38.4%",
+      "unique": "22,340",
+      "forwards": "1,908",
+      "comparison": "12%",
+      "status": "up"
+    },
+    {
+      "title": "Engagement",
+      "percentage": "55.0%",
+      "unique": "13,256",
+      "forwards": "98",
+      "comparison": "23%",
+      "status": "up"
+    },
+    {
+      "title": "Conversion",
+      "percentage": "0.1%",
+      "unique": "21",
+      "forwards": "",
+      "comparison": "19%",
+      "status": "up"
+    }
+  ],
+  "conversion": {
+    "description": "of conversions happened during this period with 10 users registered",
+    "percentage": "50%",
+    "roiChartData": [
+      {
+        "categories": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [
+          10,
+          30,
+          23,
+          57,
+          61,
+          9,
+          33,
+          24,
+          58,
+          46,
+          58,
+          69.5
+        ]
+      },
+      {
+        "categories": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [
+          10,
+          30,
+          23,
+          57,
+          61,
+          9,
+          33,
+          24,
+          58,
+          46,
+          58,
+          69.5
+        ]
+      },
+      {
+        "categories": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [
+          10,
+          30,
+          23,
+          57,
+          61,
+          9,
+          33,
+          24,
+          58,
+          46,
+          58,
+          69.5
+        ]
+      },
+      {
+        "categories": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [
+          10,
+          30,
+          23,
+          57,
+          61,
+          9,
+          33,
+          24,
+          58,
+          46,
+          58,
+          69.5
+        ]
+      }
+    ]
+  },
+  "geography": {
+    "description": "of engagement is from users in North America",
+    "percentage": "32%"
+  },
+  "emailOpenBy": {
+    "analyticsChart": [
+      {
+        "y": 5,
+        "name": "Gmail",
+        "color": "#bc2f20"
+      },
+      {
+        "y": 28,
+        "name": "Outlook 2010",
+        "color": "#fd8f40"
+      },
+      {
+        "name": "Outlook 2007",
+        "color": "#40abaf",
+        "y": 31
+      },
+      {
+        "name": "Yahoo",
+        "color": "#fe5758",
+        "y": 11
+      },
+      {
+        "name": "Others",
+        "color": "#fe5758",
+        "y": 7
+      }
+    ]
+  },
+  "campaignLinkStatus": {
+    "categories": [
+      "Delivered",
+      "Undelivered",
+      "Expired",
+      "Rejected",
+      "Opted out",
+      "Submitted to carrier",
+      "Message in queue"
+    ],
+    "linkData": [
+      {
+        "name": "Ethan Prince",
+        "email": "wp****@hotmail.com",
+        "opens": "02",
+        "clicks": "01",
+        "conversions": "02"
+      },
+      {
+        "name": "George",
+        "email": "george****@hotmail.com",
+        "opens": "01",
+        "clicks": "02",
+        "conversions": "01"
+      },
+      {
+        "name": "Thomas",
+        "email": "thomas.****@yahoo.com",
+        "opens": "02",
+        "clicks": "01",
+        "conversions": "02"
+      },
+      {
+        "name": "Kamryn",
+        "email": "Kamryn.****@gmail.com",
+        "opens": "01",
+        "clicks": "02",
+        "conversions": "01"
+      },
+      {
+        "name": "Peter James",
+        "email": "pe******s@hotmail.com",
+        "opens": "02",
+        "clicks": "01",
+        "conversions": "02"
+      }
+    ]
+  },
+  "linkClickStatus": {
+    "panner": "http://172.31.1.12/svn/ui_resulticksapp/rs30/banking/Images/industries/banking/email-preview-heat-map.jpg",
+    "linkListData": [
+      {
+        "urlName": "http://www.visionbank.com/products",
+        "totalClick": "12,228",
+        "uniqueClick": "10,164"
+      },
+      {
+        "urlName": "visionbank://item/view?id=360703170135",
+        "totalClick": "6,891",
+        "uniqueClick": "5,000"
+      }
+    ]
+  },
+  "emailKeyMetrics": {
+    "totalaudience": "105,000",
+    "delivered": "63,000",
+    "forwarded": "2,678",
+    "totalOpened": "24,248",
+    "totalClicked": "13,354",
+    "conversionRate": "0.16%",
+    "bounced": "14,700",
+    "spammed": "198",
+    "unSubscribed": "21"
+  }
+}

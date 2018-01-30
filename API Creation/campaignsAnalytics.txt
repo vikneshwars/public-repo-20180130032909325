@@ -1,0 +1,182 @@
+{
+  "campaignTypes": [
+    "All",
+    "Awareness",
+    "Greetings",
+    "New product launch",
+    "Promotional",
+    "Sale"
+  ],
+  "deliveryTypes": [
+    "Single Dimension",
+    "Multi Dimension",
+    "Transactional"
+  ],
+  "campaignsData": [
+    {
+      "campaignId": "A1",
+      "created": "Created by: Sophia Goodwin, On: Nov 02, 2017",
+      "name": "Fixed deposit renewal",
+      "campaignType": "New product launch",
+      "deliveryType": "Single Dimension",
+      "campaignDate": "21 Jan 2018",
+      "campaignStatus": "In Progress",
+      "audienceCount": "700,000",
+      "channels": [
+        {
+          "channelName": "Email",
+          "status": "Split 10% completed",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "Mobile",
+          "status": "Play",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "QR Code",
+          "status": "",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        }
+      ]
+    },
+    {
+      "campaignId": "A2",
+      "created": "Created by: Sophia Goodwin, on: Oct 05, 2017",
+      "name": "Investment Plans",
+      "campaignType": "Greetings",
+      "deliveryType": "Single Dimension",
+      "campaignDate": "22 Jan 2018",
+      "campaignStatus": "Completed",
+      "audienceCount": "1,745,560",
+      "channels": [
+        {
+          "channelName": "Email",
+          "status": "Split 10% completed",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "Mobile",
+          "status": "Play",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "QR Code",
+          "status": "",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        }
+      ]
+    },
+    {
+      "campaignId": "A3",
+      "created": "Created by: Sophia Goodwin, on: Oct 11, 2017",
+      "name": "Promotional credit card offers",
+      "campaignType": "Sale",
+      "deliveryType": "Transactional",
+      "campaignDate": "23 Jan 2018",
+      "campaignStatus": "Scheduled",
+      "audienceCount": "1,745,560",
+      "channels": [
+        {
+          "channelName": "Email",
+          "status": "Split 10% completed",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "Mobile",
+          "status": "Play",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "QR Code",
+          "status": "",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        }
+      ]
+    },
+    {
+      "campaignId": "A4",
+      "created": "Created by: Sophia Goodwin, on: Oct 11, 2017",
+      "name": "Gold bonds",
+      "campaignType": "Awareness",
+      "deliveryType": "Single dimension",
+      "campaignDate": "25 Jan 2018",
+      "campaignStatus": "In Progress",
+      "audienceCount": "1,745,560",
+      "channels": [
+        {
+          "channelName": "Email",
+          "status": "Split 10% completed",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "Mobile",
+          "status": "Play",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "QR Code",
+          "status": "",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        }
+      ]
+    },
+    {
+      "campaignId": "A5",
+      "created": "Created by: Sophia Goodwin, on: Oct 11, 2017",
+      "name": "Gold bonds",
+      "campaignType": "Promotion",
+      "deliveryType": "Multi Dimension",
+      "campaignDate": "25 Jan 2018",
+      "campaignStatus": "In progress",
+      "audienceCount": "1,745,560",
+      "channels": [
+        {
+          "channelName": "Email",
+          "status": "Split 10% completed",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "Mobile",
+          "status": "Play",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        },
+        {
+          "channelName": "QR Code",
+          "status": "",
+          "total": "6,815,680",
+          "reach": "489,906",
+          "engagement": "1,090"
+        }
+      ]
+    }
+  ]
+}

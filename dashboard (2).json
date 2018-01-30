@@ -1,0 +1,3004 @@
+{
+  "businessUnits": [
+    "All",
+    "Personal",
+    "Business",
+    "Privilege"
+  ],
+  "daywiseFilter": [
+    "Last 30 days",
+    "Last 90 days",
+    "Last 180 days"
+  ],
+  "dashBoardData": [
+    {
+      "recentCampaigns": {
+        "categories": [
+          "Recent campaigns",
+          "Recently completed campaigns"
+        ],
+        "recentCampaignsData": [
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          },
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          }
+        ]
+      },
+      "roiTrend": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "roiChartData": [
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          }
+        ]
+      },
+      "leadGenerated": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "pieChartData": [
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          }
+        ]
+      },
+      "channelPerformance": {
+        "categories": [
+          "Reach",
+          "Engagement",
+          "Conversion"
+        ],
+        "channelChartData": [
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          }
+        ]
+      },
+      "audienceBehaviour": {
+        "categories": [
+          "Week",
+          "Day"
+        ],
+        "audienceChartData": [
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          },
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          }
+        ]
+      },
+      "topPerformingCampaigns": {
+        "categories": [
+          "Top performing campaigns",
+          "Low performing campaigns"
+        ],
+        "topPerformingCampaignData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          }
+        ]
+      },
+      "topEarningCampaings": {
+        "categories": [
+          "Top earning campaigns",
+          "Low earning campaigns"
+        ],
+        "topEarningCampaingsData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          }
+        ]
+      },
+      "advocates": {
+        "categories": [
+          "Advocates",
+          "Spectators",
+          "Influencers",
+          "Critics"
+        ],
+        "advocateData": [
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          }
+        ]
+      },
+      "averageConversionTime": {
+        "averageConversionChartData": [
+          {
+            "name": "Twitter",
+            "color": "twitterColor",
+            "y": 16.6,
+            "id": "twitterIcon"
+          },
+          {
+            "name": "Email",
+            "color": "emailColor",
+            "y": 16.6
+          },
+          {
+            "name": "SMS",
+            "color": "smsColor",
+            "y": 16.7
+          },
+          {
+            "name": "Facebook",
+            "color": "facebookColor",
+            "y": 16.7
+          },
+          {
+            "name": "Google+",
+            "color": "googleColor",
+            "y": 16.6
+          },
+          {
+            "name": "QR code",
+            "color": "qrColor",
+            "y": "16.6"
+          }
+        ]
+      }
+    },{
+      "recentCampaigns": {
+        "categories": [
+          "Recent campaigns",
+          "Recently completed campaigns"
+        ],
+        "recentCampaignsData": [
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          },
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          }
+        ]
+      },
+      "roiTrend": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "roiChartData": [
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          }
+        ]
+      },
+      "leadGenerated": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "pieChartData": [
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          }
+        ]
+      },
+      "channelPerformance": {
+        "categories": [
+          "Reach",
+          "Engagement",
+          "Conversion"
+        ],
+        "channelChartData": [
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          }
+        ]
+      },
+      "audienceBehaviour": {
+        "categories": [
+          "Week",
+          "Day"
+        ],
+        "audienceChartData": [
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          },
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          }
+        ]
+      },
+      "topPerformingCampaigns": {
+        "categories": [
+          "Top performing campaigns",
+          "Low performing campaigns"
+        ],
+        "topPerformingCampaignData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          }
+        ]
+      },
+      "topEarningCampaings": {
+        "categories": [
+          "Top earning campaigns",
+          "Low earning campaigns"
+        ],
+        "topEarningCampaingsData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          }
+        ]
+      },
+      "advocates": {
+        "categories": [
+          "Advocates",
+          "Spectators",
+          "Influencers",
+          "Critics"
+        ],
+        "advocateData": [
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          }
+        ]
+      },
+      "averageConversionTime": {
+        "averageConversionChartData": [
+          {
+            "name": "Twitter",
+            "color": "twitterColor",
+            "y": 16.6,
+            "id": "twitterIcon"
+          },
+          {
+            "name": "Email",
+            "color": "emailColor",
+            "y": 16.6
+          },
+          {
+            "name": "SMS",
+            "color": "smsColor",
+            "y": 16.7
+          },
+          {
+            "name": "Facebook",
+            "color": "facebookColor",
+            "y": 16.7
+          },
+          {
+            "name": "Google+",
+            "color": "googleColor",
+            "y": 16.6
+          },
+          {
+            "name": "QR code",
+            "color": "qrColor",
+            "y": "16.6"
+          }
+        ]
+      }
+    },{
+      "recentCampaigns": {
+        "categories": [
+          "Recent campaigns",
+          "Recently completed campaigns"
+        ],
+        "recentCampaignsData": [
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          },
+          {
+            "recentCampaigns": [
+              {
+                "title": "Fixed deposit renewal",
+                "status": "Warming up",
+                "period": "Period ( Nov 02, 2017 - Nov 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Investment plans",
+                "status": "Achieved",
+                "period": "Period ( Oct 05, 2017 - Oct 30, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Building better money habits",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional credit card offers",
+                "status": "Warming up",
+                "period": "Period ( Jun 30, 2017 - Jul 29, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Gold bonds",
+                "status": "Achieved",
+                "period": "Period ( May 29, 2017 - Jun 27, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              },
+              {
+                "title": "Promotional Offer",
+                "status": "Over achieved",
+                "period": "Period ( Jul 24, 2017 - Aug 24, 2017 )",
+                "channels": "Channel: Email, Mobile",
+                "target": "Target: Reach (40%)",
+                "current": "Current: Reach (10%)"
+              }
+            ]
+          }
+        ]
+      },
+      "roiTrend": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "roiChartData": [
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          },
+          {
+            "categories": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "data": [
+              10,
+              30,
+              23,
+              57,
+              61,
+              9,
+              33,
+              24,
+              58,
+              46,
+              58,
+              69.5
+            ]
+          }
+        ]
+      },
+      "leadGenerated": {
+        "categories": [
+          "All",
+          "Fixed deposit renewal",
+          "Gold bonds",
+          "Effortless Mobile Banking"
+        ],
+        "pieChartData": [
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          },
+          {
+            "pieChart": [
+              {
+                "name": "Google+",
+                "color": "googleColor",
+                "y": 13
+              },
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "y": 12
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "y": 14
+              },
+              {
+                "name": "Pinterest",
+                "color": "pinterestColor",
+                "y": 15
+              },
+              {
+                "name": "Facebook",
+                "color": "facebookColor",
+                "y": 20
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "y": 26
+              }
+            ]
+          }
+        ]
+      },
+      "channelPerformance": {
+        "categories": [
+          "Reach",
+          "Engagement",
+          "Conversion"
+        ],
+        "channelChartData": [
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          },
+          {
+            "categories": [
+              "Campaign 1",
+              "Campaign 2",
+              "Campaign 3",
+              "Campaign 4",
+              "Campaign 5"
+            ],
+            "series": [
+              {
+                "name": "Email",
+                "color": "emailColor",
+                "data": [
+                  180,
+                  130,
+                  165,
+                  96
+                ],
+                "legendIndex": 0
+              },
+              {
+                "name": "Twitter",
+                "color": "twitterColor",
+                "data": [
+                  103,
+                  81,
+                  92,
+                  138
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Linkedin",
+                "color": "linkedinColor",
+                "data": [
+                  135,
+                  69,
+                  124,
+                  43
+                ],
+                "legendIndex": 2
+              },
+              {
+                "name": "QR code",
+                "color": "qrColor",
+                "data": [
+                  80,
+                  89,
+                  55,
+                  81
+                ],
+                "legendIndex": 3
+              }
+            ]
+          }
+        ]
+      },
+      "audienceBehaviour": {
+        "categories": [
+          "Week",
+          "Day"
+        ],
+        "audienceChartData": [
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          },
+          {
+            "categories": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "30th Oct",
+              "31st Oct",
+              "1st Nov",
+              "2nd Nov",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov",
+              "11th Nov",
+              "12th Nov",
+              "13th Nov"
+            ],
+            "data": [
+              {
+                "x": 3.8,
+                "y": 104,
+                "z": 42,
+                "name": "Sunday",
+                "color": "sundayColor",
+                "labelrank": 1
+              },
+              {
+                "x": 3.45,
+                "y": 65,
+                "z": 4,
+                "name": "Monday",
+                "color": "mondayColor"
+              },
+              {
+                "x": 3.25,
+                "y": 105,
+                "z": 15,
+                "name": "Tuesday",
+                "color": "tuesdayColor",
+                "labelrank": 3
+              },
+              {
+                "x": 3.45,
+                "y": 155,
+                "z": 8,
+                "name": "Wednesday",
+                "color": "wednesdayColor",
+                "labelrank": 0
+              },
+              {
+                "x": 4.21,
+                "y": 145,
+                "z": 10,
+                "name": "Thursday",
+                "color": "thursdayColor"
+              },
+              {
+                "x": 4.6,
+                "y": 120,
+                "z": 12,
+                "name": "Friday",
+                "color": "fridayColor"
+              },
+              {
+                "x": 4.32,
+                "y": 70,
+                "z": 20,
+                "name": "Saturday",
+                "color": "saturdayColor"
+              }
+            ]
+          }
+        ]
+      },
+      "topPerformingCampaigns": {
+        "categories": [
+          "Top performing campaigns",
+          "Low performing campaigns"
+        ],
+        "topPerformingCampaignData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "Invest smartly,Save money",
+                "value": "185%"
+              },
+              {
+                "title": "Fixed deposit renewal",
+                "value": "136%"
+              },
+              {
+                "title": "Young professionals",
+                "value": "112%"
+              },
+              {
+                "title": "Promotional Offer",
+                "value": "185%"
+              },
+              {
+                "title": "Building better money habits",
+                "value": "194%"
+              }
+            ]
+          }
+        ]
+      },
+      "topEarningCampaings": {
+        "categories": [
+          "Top earning campaigns",
+          "Low earning campaigns"
+        ],
+        "topEarningCampaingsData": [
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          },
+          {
+            "topCampaigns": [
+              {
+                "title": "International trip",
+                "value": "5.1M"
+              },
+              {
+                "title": "International Travel Card holders",
+                "value": "4.0M"
+              },
+              {
+                "title": "Child's future",
+                "value": "2.7M"
+              },
+              {
+                "title": "Vision Bank Special offers",
+                "value": "0.5M"
+              },
+              {
+                "title": "Retirement plans awareness",
+                "value": "0.4M"
+              }
+            ]
+          }
+        ]
+      },
+      "advocates": {
+        "categories": [
+          "Advocates",
+          "Spectators",
+          "Influencers",
+          "Critics"
+        ],
+        "advocateData": [
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          },
+          {
+            "advocate": [
+              {
+                "profilePicture": "",
+                "name": "Ethan Prince",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Rachel Gill",
+                "description": "Participated in 08 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb David Chin",
+                "description": "Participated in 07 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Frank Hunt",
+                "description": "Participated in 15 campaigns"
+              },
+              {
+                "profilePicture": "",
+                "name": "User thumb Victoria Olson",
+                "description": "Participated in 08 campaigns"
+              }
+            ]
+          }
+        ]
+      },
+      "averageConversionTime": {
+        "averageConversionChartData": [
+          {
+            "name": "Twitter",
+            "color": "twitterColor",
+            "y": 16.6,
+            "id": "twitterIcon"
+          },
+          {
+            "name": "Email",
+            "color": "emailColor",
+            "y": 16.6
+          },
+          {
+            "name": "SMS",
+            "color": "smsColor",
+            "y": 16.7
+          },
+          {
+            "name": "Facebook",
+            "color": "facebookColor",
+            "y": 16.7
+          },
+          {
+            "name": "Google+",
+            "color": "googleColor",
+            "y": 16.6
+          },
+          {
+            "name": "QR code",
+            "color": "qrColor",
+            "y": "16.6"
+          }
+        ]
+      }
+    }
+  ]
+}

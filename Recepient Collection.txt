@@ -1,0 +1,17 @@
+List Acquisition
+There in the array there are 4 objects
+1. All Sources
+2. CSV
+3. Form Generation
+4. Manual
+
+[{"DateRanges":["02-Jan-2018","03-Jan-2018","07-Jan-2018","10-Jan-2018","18-Jan-2018","22-Jan-2018","23-Jan-2018"],"RecipientListSeries":[{"SeriesName":"Email","SeriesData":[307,61,2,4,1,6,4],"DateRange":"23-Jan-2018"},{"SeriesName":"Mobile","SeriesData":[229,7,2,4,1,5,4],"DateRange":"23-Jan-2018"},{"SeriesName":"Facebook","SeriesData":[62,2],"DateRange":"22-Jan-2018"},{"SeriesName":"Twitter","SeriesData":[62,2],"DateRange":"22-Jan-2018"},{"SeriesName":"GooglePlusID","SeriesData":[62],"DateRange":"02-Jan-2018"},{"SeriesName":"PinterestID","SeriesData":[62,2],"DateRange":"22-Jan-2018"}]},{"DateRanges":["02-Jan-2018","03-Jan-2018","22-Jan-2018"],"RecipientListSeries":[{"SeriesName":"Email","SeriesData":[301,59,2],"DateRange":"22-Jan-2018"},{"SeriesName":"Mobile","SeriesData":[224,6,1],"DateRange":"22-Jan-2018"},{"SeriesName":"Facebook","SeriesData":[58,2],"DateRange":"22-Jan-2018"},{"SeriesName":"Twitter","SeriesData":[58,2],"DateRange":"22-Jan-2018"},{"SeriesName":"GooglePlusID","SeriesData":[58],"DateRange":"02-Jan-2018"},{"SeriesName":"PinterestID","SeriesData":[58,2],"DateRange":"22-Jan-2018"}]},{"DateRanges":["07-Jan-2018","10-Jan-2018","23-Jan-2018"],"RecipientListSeries":[{"SeriesName":"Email","SeriesData":[2,4,4],"DateRange":"23-Jan-2018"},{"SeriesName":"Mobile","SeriesData":[2,4,4],"DateRange":"23-Jan-2018"}]},{"DateRanges":["02-Jan-2018","03-Jan-2018","18-Jan-2018","22-Jan-2018"],"RecipientListSeries":[{"SeriesName":"Email","SeriesData":[6,2,1,4],"DateRange":"22-Jan-2018"},{"SeriesName":"Mobile","SeriesData":[5,1,1,4],"DateRange":"22-Jan-2018"},{"SeriesName":"Facebook","SeriesData":[4],"DateRange":"02-Jan-2018"},{"SeriesName":"Twitter","SeriesData":[4],"DateRange":"02-Jan-2018"},{"SeriesName":"GooglePlusID","SeriesData":[4],"DateRange":"02-Jan-2018"},{"SeriesName":"PinterestID","SeriesData":[4],"DateRange":"02-Jan-2018"}]}]
+
+
+on Country Selection
+[{"Name":"India","Count":92.5},{"Name":"Singapore","Count":2.5},{"Name":"UK","Count":2.5},{"Name":"Others","Count":2.5}]
+
+
+on Gender Selection
+[{"Name":"Male","Count":67.69},{"Name":"Female","Count":32.31}]
+

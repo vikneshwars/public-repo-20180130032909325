@@ -1,0 +1,179 @@
+{
+  "campaignTypes": [
+    "All",
+    "Awareness",
+    "Greetings",
+    "New product launch",
+    "Promotional",
+    "Sale"
+  ],
+  "deliveryTypes":[
+    "All",
+    "Single dimension",
+    "Multi dimension",
+    "Transactional"
+  ],
+  "campaignsData": [
+    {
+      "created": "Created by: Lillie Goodwin, On: Nov 02, 2017",
+      "name": "Fixed deposit renewal",
+      "campaignType": "Single dimension",
+      "deliveryType": "Promotional",
+      "campaignDate": "Nov 02, 2017",
+      "campaignStatus": "In progress",
+      "audienceCount": "Nov 02, 2017",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed",
+          "total":"6,815,680",
+          "reach":"489,906",
+          "engagement":"1,090"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play",
+          "total":"354,540",
+          "reach":"25,235",
+          "engagement":"589"
+        },{
+          "channelName":"QR Code",
+          "status":"",
+          "total":"2,354,660",
+          "reach":"1,008,219",
+          "engagement":"11,574"
+        }
+
+      ]
+    },
+    {
+      "created": "Created on: Oct 05, 2017",
+      "name": "Investment plans",
+      "campaignType": "Single dimension",
+      "deliveryType": "Promotional",
+      "campaignDate": "Oct 05, 2017",
+      "campaignStatus": "Completed",
+      "audienceCount": "Oct 05, 2017",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed",
+          "total":"6,815,680",
+          "reach":"489,906",
+          "engagement":"1,090"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play",
+          "total":"354,540",
+          "reach":"25,235",
+          "engagement":"589"
+        },{
+          "channelName":"QR Code",
+          "status":"",
+          "total":"2,354,660",
+          "reach":"1,008,219",
+          "engagement":"11,574"
+        }
+
+      ]
+
+    },
+    {
+      "created": "Created on: Oct 27, 2017",
+      "name": "Promotional credit card offers",
+      "campaignType": "Single dimension",
+      "deliveryType": "Awareness",
+      "campaignDate": "Aug 05, 2017",
+      "campaignStatus": "Completed",
+      "audienceCount": "Aug 05, 2017",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed",
+          "total":"6,815,680",
+          "reach":"489,906",
+          "engagement":"1,090"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play",
+          "total":"354,540",
+          "reach":"25,235",
+          "engagement":"589"
+        },{
+          "channelName":"QR Code",
+          "status":"",
+          "total":"2,354,660",
+          "reach":"1,008,219",
+          "engagement":"11,574"
+        }
+
+      ]
+    },
+    {
+      "created": "Created on: Jul 15, 2017",
+      "name": "MDC - Foodie & Tech geek",
+      "campaignType": "Multi dimension",
+      "deliveryType": "Awareness",
+      "campaignDate": "Jul 30, 2017",
+      "campaignStatus": "In progress",
+      "audienceCount": "Jul 30, 2017",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed",
+          "total":"6,815,680",
+          "reach":"489,906",
+          "engagement":"1,090"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play",
+          "total":"354,540",
+          "reach":"25,235",
+          "engagement":"589"
+        },{
+          "channelName":"QR Code",
+          "status":"",
+          "total":"2,354,660",
+          "reach":"1,008,219",
+          "engagement":"11,574"
+        }
+
+      ]
+    },
+    {
+      "created": "Created on: Jun 05, 2017",
+      "name": "Gold bonds",
+      "campaignType": "Single dimension",
+      "deliveryType": "Greetings",
+      "campaignDate": "Jun 20, 2017",
+      "campaignStatus": "Paused",
+      "audienceCount": "Jun 20, 2017",
+      "channels":[
+        {
+          "channelName":"Email",
+          "status":"split 10% completed",
+          "total":"6,815,680",
+          "reach":"489,906",
+          "engagement":"1,090"
+        },
+        {
+          "channelName":"Mobile",
+          "status":"play",
+          "total":"354,540",
+          "reach":"25,235",
+          "engagement":"589"
+        },{
+          "channelName":"QR Code",
+          "status":"",
+          "total":"2,354,660",
+          "reach":"1,008,219",
+          "engagement":"11,574"
+        }
+
+      ]
+    }
+  ]
+}

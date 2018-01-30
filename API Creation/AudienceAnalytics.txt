@@ -1,0 +1,481 @@
+{
+  "filters": [
+    "Age",
+    "Channel",
+    "City",
+    "Country",
+    "Social Media"
+  ],
+  "analyticsChartData": [
+    {
+      "chartType": "",
+      "analyticsChart": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#bc2f20"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ]
+    },
+    {
+      "chartType": "",
+      "analyticsChart": [
+        {
+          "y": 0
+        }
+      ]
+    },
+    {
+      "chartType": "",
+      "analyticsChart": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#bc2f20"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ]
+    },
+    {
+      "chartType": "",
+      "analyticsChart": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#bc2f20"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ]
+    },
+    {
+      "chartType": "",
+      "analyticsChart": [
+        {
+          "y": 0
+        }
+      ]
+    }
+  ],
+  "serveData": {
+    "totalAudience": "88,977,489",
+    "audienceCompleteness": "40% Profile Completeness",
+    "totalAudienceInfo": {
+      "overallProfileCompleteness": "40%",
+      "primaryAttributes": [
+        "75%",
+        "94.5%",
+        "38%",
+        "22%",
+        "18%",
+        "10%",
+        "12%"
+      ],
+      "recommendations": [
+        "Launch a facebook & twitter campaign to know social profile data of your customers",
+        "KYC forms can be used to collect demographics & intersts of your customers",
+        "Launch email campaigns with the objective of augmenting mobile numbers for the existing customers",
+        "Launch a linked in campaign to grow your professional network",
+        "KYC forms can be used to augment mobile numbers of your leads."
+      ]
+    },
+    "emailAudienceTotal": "84,350,660",
+    "emailAudienceCompleteness": "94.8% data captured",
+    "emailAudienceInfo": {
+      "emailAudiencePieData": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#33b5e6"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ],
+      "byDomain": [
+        {
+          "y": 0,
+          "title": "Gmail",
+          "total": "37, 957, 797",
+          "percentage": "(45%)"
+        },
+        {
+          "y": 0,
+          "title": "Yahoo",
+          "total": "20, 244, 158",
+          "percentage": "(24%)"
+        },
+        {
+          "y": 0,
+          "title": "Custom domains",
+          "total": "14, 339, 612",
+          "percentage": "(17%)"
+        },
+        {
+          "y": 0,
+          "title": "Others",
+          "total": "11, 809, 092",
+          "percentage": "(14%)"
+        }
+      ],
+      "byDeliveribility": [
+        {
+          "y": 0,
+          "total": "50, 610, 396",
+          "percentage": "(60%)",
+          "delivered": "Delivered"
+        },
+        {
+          "y": 0,
+          "total": "14, 339, 612",
+          "percentage": "(17%)",
+          "delivered": "Bounced"
+        },
+        {
+          "y": 0,
+          "total": "7, 591, 559",
+          "percentage": "(14%)",
+          "delivered": "Unsubscribed"
+        },
+        {
+          "y": 0,
+          "total": "11, 809, 092",
+          "percentage": "(09%)",
+          "delivered": "Spammed"
+        }
+      ]
+    },
+    "mobileAudienceTotal": "33,811,446",
+    "mobileAudienceCompleteness": "38% data captured",
+    "mobileAudienceInfo": {
+      "mobileAudiencePieData": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#33b5e6"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ],
+      "bycountry": [
+        {
+          "y": 0,
+          "title": "USA",
+          "total": "31, 106, 529",
+          "percentage": "(92%)"
+        },
+        {
+          "y": 0,
+          "title": "Canada",
+          "total": "1, 352, 457",
+          "percentage": "(04%)"
+        },
+        {
+          "y": 0,
+          "title": "Mexico",
+          "total": "676, 229",
+          "percentage": "(02%)"
+        },
+        {
+          "y": 0,
+          "title": "Others",
+          "total": "676, 229",
+          "percentage": "(02%)"
+        }
+      ],
+      "byDeliveribility": [
+        {
+          "y": 0,
+          "total": "20, 286, 867",
+          "percentage": "(60%)",
+          "delivered": "Delivered"
+        },
+        {
+          "y": 0,
+          "total": "5, 409, 831",
+          "percentage": "(16%)",
+          "delivered": "Rejected"
+        },
+        {
+          "y": 0,
+          "total": "3, 381, 145",
+          "percentage": "(10%)",
+          "delivered": "DND"
+        },
+        {
+          "y": 0,
+          "total": "3, 043, 030",
+          "percentage": "(09%)",
+          "delivered": "Expired"
+        },
+        {
+          "y": 0,
+          "total": "1, 690, 572",
+          "percentage": "(05%)",
+          "delivered": "Undelivered"
+        }
+      ]
+    },
+    "socialMediaAudienceTotal": "439,202",
+    "socialMediaAudienceCompleteness": "16% data captured",
+    "socialMediaAudienceInfo": {
+      "socialMediaAudiencePieData": [
+        {
+          "y": 5,
+          "name": "Gmail",
+          "color": "#33b5e6"
+        },
+        {
+          "y": 28,
+          "name": "Outlook 2010",
+          "color": "#fd8f40"
+        },
+        {
+          "y": 31,
+          "name": "Outlook 2007",
+          "color": "#40abaf"
+        },
+        {
+          "y": 11,
+          "name": "Yahoo",
+          "color": "#fe5758"
+        },
+        {
+          "y": 7,
+          "name": "Others",
+          "color": "#fe5758"
+        }
+      ],
+      "byDomain": [
+        {
+          "y": 0,
+          "title": "Facebook",
+          "total": "215,208",
+          "percentage": "(41%)"
+        },
+        {
+          "y": 0,
+          "title": "Twitter",
+          "total": "87,840",
+          "percentage": "(19%)"
+        },
+        {
+          "y": 0,
+          "title": "Google+",
+          "total": "65,880",
+          "percentage": "(25%)"
+        },
+        {
+          "y": 0,
+          "title": "Pinterest",
+          "total": "39,528",
+          "percentage": "(2%)"
+        },
+        {
+          "y": 0,
+          "title": "Others",
+          "total": "30,744",
+          "percentage": "(18%)"
+        }
+      ]
+    }
+  },
+  "campaignActivityCategories": [
+    "List activity",
+    "List acquisition",
+    "List attrition"
+  ],
+  "campaignSourceCategories": [
+    "All sources",
+    "Fixed deposit renewal",
+    "Promotional credit card offers",
+    "Gold bonds",
+    "Effortless Mobile Banking"
+  ],
+  "campaignAnalyticsChartData": [
+    {
+      "campaignAnalyticsChart": [
+        {
+          "name": "Google Ads",
+          "color": "#bc2f20",
+          "marker": {
+            "lineColor": "#bc2f20",
+            "fillColor": "white",
+            "linecolor": null,
+            "fillcolor": null
+          },
+          "data": [
+            90,
+            120,
+            110,
+            120,
+            75,
+            100,
+            119,
+            100,
+            126,
+            141,
+            199,
+            112
+          ],
+          "legendIndex": 1
+        },
+        {
+          "name": "Facebook Ads",
+          "color": "#6a7aa5",
+          "marker": {
+            "lineColor": null,
+            "fillColor": null,
+            "linecolor": "#6a7aa5",
+            "fillcolor": "white"
+          },
+          "data": [
+            90,
+            70,
+            150,
+            103,
+            200,
+            96,
+            30,
+            88,
+            150,
+            80,
+            40,
+            100
+          ],
+          "legendIndex": 1
+        },
+        {
+          "name": "Twitter Ads",
+          "color": "#31ccfd",
+          "marker": {
+            "lineColor": null,
+            "fillColor": null,
+            "linecolor": "#31ccfd",
+            "fillcolor": "white"
+          },
+          "data": [
+            60,
+            70,
+            90,
+            50,
+            80,
+            30,
+            80,
+            85,
+            100,
+            92,
+            100,
+            102
+          ],
+          "legendIndex": 2
+        }
+      ],
+      "categoriesData": [
+        "27th Oct",
+        "28th Oct",
+        "29th Oct",
+        "3rd Nov",
+        "4th Nov",
+        "5th Nov",
+        "6th Nov",
+        "7th Nov",
+        "8th Nov",
+        "9th Nov",
+        "10th Nov"
+      ]
+    }
+  ]
+}

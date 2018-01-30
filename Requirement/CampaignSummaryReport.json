@@ -1,0 +1,2527 @@
+{
+  "summaryOverviewinfo": [],
+  "summaryOverview": [
+    {
+      "title": "Reach",
+      "audience": "13.9M",
+      "percentage": "43%",
+      "serve": [
+        {
+          "title": "Email",
+          "value": "0.42 million"
+        },{
+          "title": "Mobile",
+          "value": "0.48 million"
+        },{
+          "title": "Facebook",
+          "value": "0.28 million"
+        },{
+          "title": "Twitter",
+          "value": "1.9 million"
+        }
+      ],
+      "radio": [
+        {
+          "title": "Email",
+          "value": "3:1"
+        },{
+          "title": "Mobile",
+          "value": "2:1"
+        },
+        {
+          "title": "Facebook",
+          "value": "6:1"
+        },
+        {
+          "title": "Twitter",
+          "value": "9:1"
+        }
+      ]
+    },
+    {
+      "title": "Engagement",
+      "audience": "0.3M",
+      "percentage": "3.4%",
+      "serve": [
+        {
+          "title": "Email",
+          "value": "84,982"
+        },{
+          "title": "Mobile",
+          "value": "0.1 million"
+        },{
+          "title": "Facebook",
+          "value": "0.1 million"
+        },{
+          "title": "Twitter",
+          "value": "19,503"
+        }
+      ],
+      "radio": [
+        {
+          "title": "Email",
+          "value": "212:1"
+        },{
+          "title": "Mobile",
+          "value": "512:1"
+        },
+        {
+          "title": "Facebook",
+          "value": "651:1"
+        },
+        {
+          "title": "Twitter",
+          "value": "689:1"
+        }
+      ]
+    },
+    {
+      "title": "Conversion",
+      "audience": "6,635",
+      "percentage": "2.9%",
+      "serve": [
+        {
+          "title": "Email",
+          "value": "1,060"
+        },{
+          "title": "Mobile",
+          "value": "1,091"
+        },{
+          "title": "Facebook",
+          "value": "2.812 million"
+        },{
+          "title": "Twitter",
+          "value": "982"
+        }
+      ],
+      "radio": [
+        {
+          "title": "Email",
+          "value": "2:1"
+        },{
+          "title": "Mobile",
+          "value": "3:1"
+        },
+        {
+          "title": "Facebook",
+          "value": "5:1"
+        },
+        {
+          "title": "Twitter",
+          "value": "6:1"
+        }
+      ]
+    }
+  ],
+  "performance": {
+    "duration": "Duration (Dec 13, 2017 - Jan 12, 2018)",
+    "performanceList": [
+      {
+        "title": "Primary goal",
+        "percentage": "1.3%",
+        "description": "Achieved vs. Goal",
+        "time": "(14,812/15,000 leads)",
+        "status": "positive"
+      },
+      {
+        "title": "Secondary target",
+        "percentage": "25%",
+        "description": "Achieved vs. Target",
+        "time": "(50,000/40,000 $)",
+        "status": "negative"
+      },
+      {
+        "title": "ROI",
+        "percentage": "25%",
+        "description": "Actual vs Expected ROI",
+        "time": "($5,000/$4,000)",
+        "status": "positive"
+      }
+    ]
+  },
+  "insights": [
+    "The REACH rate for this campaign has been LOW (43.1%), in comparison to the goal set (50%).",
+    "Possible reason(s) are: Campaign bounce rate is HIGH (3.68%), than the average bounce rate of previous campaigns (2.41%). Check that the quality of the audience list is good for better results.",
+    "The campaign unsubscription rate is the same(0.01%), as the average unsubscription rate of previous campaigns (0.01%). But to improve it further, we recommend you target a list of audience who might be more interested in a campaign such as yours.",
+    "The campaign was blasted on Tuesday. But, best practices indicate Wednesday,Thursday to be better days for blasting."
+  ],
+  "campaignAnalysis": {
+    "chartTypes": [
+      "Line Chart",
+      "Pie Chart",
+      "Rader Chart"
+    ],
+    "channels": [
+      "All channels",
+      "Email",
+      "SMS",
+      "QR code",
+      "Facebook app",
+      "Facebook",
+      "Twitter"
+    ],
+    "categories": [
+      "Reach",
+      "Engagement",
+      "Conversion"
+    ],
+    "channelWiseData": [
+      {
+        "channelsName": "Email",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      },
+      {
+        "channelsName": "SMS",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      },
+      {
+        "channelsName": "QR Code",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      },
+      {
+        "channelsName": "Facebook App",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      },
+      {
+        "channelsName": "Facebook",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      },
+      {
+        "channelsName": "Twitter",
+        "channelData": [
+          {
+            "title": "Audience",
+            "count": "700,000"
+          },
+          {
+            "title": "Unique opens",
+            "count": "426,300"
+          },
+          {
+            "title": "Unique clicks",
+            "count": "84,882"
+          },
+          {
+            "title": "Unsubscribed",
+            "count": "252"
+          },
+          {
+            "title": "Forwards",
+            "count": "6,700"
+          },
+          {
+            "title": "Bounced",
+            "count": "95,795"
+          },
+          {
+            "title": "Spam",
+            "count": "1,561"
+          },
+          {
+            "title": "Unattended",
+            "count": "538,340"
+          }
+        ]
+      }
+    ],
+    "campaignAnalyticsSummary": [
+      {
+        "campaignAnalyticsChartData": [
+          {
+            "chartType":"",
+            "campaignAnalyticsChart": [
+              {
+                "name": "Google Ads",
+                "color": "#bc2f20",
+                "marker": {
+                  "lineColor": "#bc2f20",
+                  "fillColor": "white"
+                },
+                "data": [
+                  90,
+                  120,
+                  110,
+                  120,
+                  75,
+                  100,
+                  119,
+                  100,
+                  126,
+                  141,
+                  199,
+                  112
+                ],
+                "legendIndex": "1"
+              },
+              {
+                "name": "Facebook Ads",
+                "color": "#6a7aa5",
+                "marker": {
+                  "linecolor": "#6a7aa5",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  90,
+                  70,
+                  150,
+                  103,
+                  200,
+                  96,
+                  30,
+                  88,
+                  150,
+                  80,
+                  40,
+                  100
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Twitter Ads",
+                "color": "#31ccfd",
+                "marker": {
+                  "linecolor": "#31ccfd",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  60,
+                  70,
+                  90,
+                  50,
+                  80,
+                  30,
+                  80,
+                  85,
+                  100,
+                  92,
+                  100,
+                  102
+                ],
+                "legendIndex": 2
+              }
+            ],
+            "categoriesData": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov"
+            ]
+          }
+        ],
+        "analyticsChannelData": [
+          {
+            "channelsName": "Email",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "SMS",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "QR Code",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook App",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Twitter",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "campaignAnalyticsChartData": [
+          {
+            "campaignAnalyticsChart": [
+              {
+                "name": "Google Ads",
+                "color": "#bc2f20",
+                "marker": {
+                  "lineColor": "#bc2f20",
+                  "fillColor": "white"
+                },
+                "data": [
+                  90,
+                  120,
+                  110,
+                  120,
+                  75,
+                  100,
+                  119,
+                  100,
+                  126,
+                  141,
+                  199,
+                  112
+                ],
+                "legendIndex": "1"
+              },
+              {
+                "name": "Facebook Ads",
+                "color": "#6a7aa5",
+                "marker": {
+                  "linecolor": "#6a7aa5",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  90,
+                  70,
+                  150,
+                  103,
+                  200,
+                  96,
+                  30,
+                  88,
+                  150,
+                  80,
+                  40,
+                  100
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Twitter Ads",
+                "color": "#31ccfd",
+                "marker": {
+                  "linecolor": "#31ccfd",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  60,
+                  70,
+                  90,
+                  50,
+                  80,
+                  30,
+                  80,
+                  85,
+                  100,
+                  92,
+                  100,
+                  102
+                ],
+                "legendIndex": 2
+              }
+            ],
+            "categoriesData": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov"
+            ]
+          }
+        ],
+        "analyticsChannelData": [
+          {
+            "channelsName": "Email",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "SMS",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "QR Code",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook App",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Twitter",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "campaignAnalyticsChartData": [
+          {
+            "campaignAnalyticsChart": [
+              {
+                "name": "Google Ads",
+                "color": "#bc2f20",
+                "marker": {
+                  "lineColor": "#bc2f20",
+                  "fillColor": "white"
+                },
+                "data": [
+                  90,
+                  120,
+                  110,
+                  120,
+                  75,
+                  100,
+                  119,
+                  100,
+                  126,
+                  141,
+                  199,
+                  112
+                ],
+                "legendIndex": "1"
+              },
+              {
+                "name": "Facebook Ads",
+                "color": "#6a7aa5",
+                "marker": {
+                  "linecolor": "#6a7aa5",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  90,
+                  70,
+                  150,
+                  103,
+                  200,
+                  96,
+                  30,
+                  88,
+                  150,
+                  80,
+                  40,
+                  100
+                ],
+                "legendIndex": 1
+              },
+              {
+                "name": "Twitter Ads",
+                "color": "#31ccfd",
+                "marker": {
+                  "linecolor": "#31ccfd",
+                  "fillcolor": "white"
+                },
+                "data": [
+                  60,
+                  70,
+                  90,
+                  50,
+                  80,
+                  30,
+                  80,
+                  85,
+                  100,
+                  92,
+                  100,
+                  102
+                ],
+                "legendIndex": 2
+              }
+            ],
+            "categoriesData": [
+              "27th Oct",
+              "28th Oct",
+              "29th Oct",
+              "3rd Nov",
+              "4th Nov",
+              "5th Nov",
+              "6th Nov",
+              "7th Nov",
+              "8th Nov",
+              "9th Nov",
+              "10th Nov"
+            ]
+          }
+        ],
+        "analyticsChannelData": [
+          {
+            "channelsName": "Email",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "SMS",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "QR Code",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook App",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Facebook",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          },
+          {
+            "channelsName": "Twitter",
+            "campaignAnalyticsChartData": [
+              {
+                "campaignAnalyticsChart": [
+                  {
+                    "name": "Google Ads",
+                    "color": "#bc2f20",
+                    "marker": {
+                      "lineColor": "#bc2f20",
+                      "fillColor": "white"
+                    },
+                    "data": [
+                      90,
+                      120,
+                      110,
+                      120,
+                      75,
+                      100,
+                      119,
+                      100,
+                      126,
+                      141,
+                      199,
+                      112
+                    ],
+                    "legendIndex": "1"
+                  },
+                  {
+                    "name": "Facebook Ads",
+                    "color": "#6a7aa5",
+                    "marker": {
+                      "linecolor": "#6a7aa5",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      90,
+                      70,
+                      150,
+                      103,
+                      200,
+                      96,
+                      30,
+                      88,
+                      150,
+                      80,
+                      40,
+                      100
+                    ],
+                    "legendIndex": 1
+                  },
+                  {
+                    "name": "Twitter Ads",
+                    "color": "#31ccfd",
+                    "marker": {
+                      "linecolor": "#31ccfd",
+                      "fillcolor": "white"
+                    },
+                    "data": [
+                      60,
+                      70,
+                      90,
+                      50,
+                      80,
+                      30,
+                      80,
+                      85,
+                      100,
+                      92,
+                      100,
+                      102
+                    ],
+                    "legendIndex": 2
+                  }
+                ],
+                "categoriesData": [
+                  "27th Oct",
+                  "28th Oct",
+                  "29th Oct",
+                  "3rd Nov",
+                  "4th Nov",
+                  "5th Nov",
+                  "6th Nov",
+                  "7th Nov",
+                  "8th Nov",
+                  "9th Nov",
+                  "10th Nov"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "benchmark": {
+    "industryBenchmark": {
+      "category": [
+        "By industry",
+        "By channel"
+      ],
+      "benchmarkChartData": [
+        {
+          "categories": [
+            "Campaign 7",
+            "Campaign 8",
+            "Campaign 9",
+            "Campaign 10",
+            "Campaign 11",
+            "Campaign 12",
+            "Campaign 13",
+            "Campaign 14",
+            "Campaign 15",
+            "Campaign 16",
+            "Campaign 17"
+          ],
+          "data": [
+            26.3,
+            29.68,
+            32.26,
+            35.19,
+            38.29,
+            38.29,
+            43.82,
+            35.19,
+            32.26,
+            29.68,
+            26.3
+          ]
+        },
+        {
+          "categories": [
+            "Campaign 7",
+            "Campaign 8",
+            "Campaign 9",
+            "Campaign 10",
+            "Industry benchmark",
+            "Campaign 12",
+            "Campaign performance",
+            "Campaign 14",
+            "Campaign 15",
+            "Campaign 16",
+            "Campaign 17"
+          ],
+          "data": [
+            26.3,
+            29.68,
+            32.26,
+            35.19,
+            38.29,
+            38.29,
+            43.82,
+            35.19,
+            32.26,
+            29.68,
+            26.3
+          ]
+        }
+      ]
+
+    },
+    "myBenchmark": {
+      "category": [
+        "By campaign",
+        "By channel"
+      ],
+      "benchmarkChartData": [
+        {
+          "categories": [
+            "Campaign 7",
+            "Campaign 8",
+            "Campaign 9",
+            "Campaign 10",
+            "Campaign 11",
+            "Campaign 12",
+            "Campaign 13",
+            "Campaign 14",
+            "Campaign 15",
+            "Campaign 16",
+            "Campaign 17"
+          ],
+          "data": [
+            26.3,
+            29.68,
+            32.26,
+            35.19,
+            38.29,
+            38.29,
+            43.82,
+            35.19,
+            32.26,
+            29.68,
+            26.3
+          ]
+        },
+        {
+          "categories": [
+            "Campaign 7",
+            "Campaign 8",
+            "Campaign 9",
+            "Campaign 10",
+            "Industry benchmark",
+            "Campaign 12",
+            "Campaign performance",
+            "Campaign 14",
+            "Campaign 15",
+            "Campaign 16",
+            "Campaign 17"
+          ],
+          "data": [
+            26.3,
+            29.68,
+            32.26,
+            35.19,
+            38.29,
+            38.29,
+            43.82,
+            35.19,
+            32.26,
+            29.68,
+            26.3
+          ]
+        }
+      ]
+    },
+    "categories": [
+      "Reach",
+      "Engagement",
+      "Conversion"
+    ],
+    "benchmarkChartData": [
+      {
+        "categories": [
+          "Campaign 7",
+          "Campaign 8",
+          "Campaign 9",
+          "Campaign 10",
+          "Campaign 11",
+          "Campaign 12",
+          "Campaign 13",
+          "Campaign 14",
+          "Campaign 15",
+          "Campaign 16",
+          "Campaign 17"
+        ],
+        "data": [
+          26.3,
+          29.68,
+          32.26,
+          35.19,
+          38.29,
+          38.29,
+          43.82,
+          35.19,
+          32.26,
+          29.68,
+          26.3
+        ]
+      },
+      {
+        "categories": [
+          "Campaign 7",
+          "Campaign 8",
+          "Campaign 9",
+          "Campaign 10",
+          "Industry benchmark",
+          "Campaign 12",
+          "Campaign performance",
+          "Campaign 14",
+          "Campaign 15",
+          "Campaign 16",
+          "Campaign 17"
+        ],
+        "data": [
+          26.3,
+          29.68,
+          32.26,
+          35.19,
+          38.29,
+          38.29,
+          43.82,
+          35.19,
+          32.26,
+          29.68,
+          26.3
+        ]
+      }
+    ]
+  },
+  "topChannel": [
+    {
+      "title": "Email",
+      "percentage": "21.8%",
+      "campaignRate": "38.2%",
+      "benchmark": "60%",
+      "status": "positive"
+    },
+    {
+      "title": "Mobile",
+      "percentage": "27.5%",
+      "campaignRate": "52.5%",
+      "benchmark": "25%",
+      "status": "positive"
+    },
+    {
+      "title": "Facebook",
+      "percentage": "2.5%",
+      "campaignRate": "1.5%",
+      "benchmark": "4%",
+      "status": "positive"
+    }
+  ]
+}
